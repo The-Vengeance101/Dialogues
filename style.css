@@ -1,0 +1,28 @@
+.text {
+    text-align: center;
+    background-color: rgb(124, 209, 255);
+    padding: 4%;
+    border-radius: 10px; /* Optional: Adds rounded corners */
+}
+
+#button {
+    text-align: center;
+    margin-top: 10mm;
+}
+
+#butt {
+    text-align: center;
+    background-color: rgb(236, 178, 85);
+    padding: 10px 30px;
+    cursor: pointer;
+    color: white;
+    border: none;
+    border-radius: 5px; /* Optional: Adds rounded corners */
+}
+
+#output {
+    text-align: center;
+    background-color: rgb(100, 226, 180);
+    padding: 10%;
+    margin-top: 10mm;
+}
